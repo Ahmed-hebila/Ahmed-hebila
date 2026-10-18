@@ -3,7 +3,21 @@
 **Flutter & Node.js developer** — I build mobile apps for the App Store and Google Play, REST APIs, websites and Salla / Shopify stores.
 Open to **remote roles** and **freelance projects**.
 
-[Portfolio](https://ahmedhebila.vercel.app) · [LinkedIn](https://www.linkedin.com/in/ahmed-hebila) · [Email](mailto:ahmedsaadhebila@gmail.com) · [Mostaql](https://mostaql.com/u/ahmedsaadhebila) · [Kafiil](https://kafiil.com/u/ahmed_hebila)
+[Portfolio](https://ahmedhebila.vercel.app) · [LinkedIn](https://www.linkedin.com/in/ahmed-hebila) · [Email](mailto:ahmedsaadhebila@gmail.com) · [WhatsApp](https://wa.me/201019691401)
+
+## Hire me on
+
+| Platform | Profile |
+|---|---|
+| **Upwork** | [upwork.com/freelancers/~01f84dcca6fafa0b30](https://www.upwork.com/freelancers/~01f84dcca6fafa0b30) |
+| **Freelancer.com** | [freelancer.com/u/ahmedhebila](https://www.freelancer.com/u/ahmedhebila) |
+| **Mostaql** | [mostaql.com/u/ahmedsaadhebila](https://mostaql.com/u/ahmedsaadhebila) |
+| **Kafiil** | [kafiil.com/u/ahmed_hebila](https://kafiil.com/u/ahmed_hebila) |
+| **Khamsat** | [khamsat.com/user/ahmedsaadhebila](https://khamsat.com/user/ahmedsaadhebila) |
+| **Nafezly** | [nafezly.com/u/ahmedhebila](https://nafezly.com/u/ahmedhebila) |
+| **Ureed** | [ureed.com/profile/ahmedsaadhebila](https://app.ureed.com/profile/ahmedsaadhebila) |
+| **Baaeed** | [baaeed.com/u/ahmedsaadhebila](https://baaeed.com/u/ahmedsaadhebila) |
+| **Freelance Yard** | [freelanceyard.com/en/freelancers/ahmed-mostafa-31](https://freelanceyard.com/en/freelancers/ahmed-mostafa-31) |
 
 ## Tech
 
