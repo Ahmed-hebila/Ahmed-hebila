@@ -1,0 +1,40 @@
+# Ahmed Hebila
+
+**Flutter & Node.js developer** — I build mobile apps for the App Store and Google Play, REST APIs, websites and Salla / Shopify stores.
+Open to **remote roles** and **freelance projects**.
+
+[Portfolio](https://ahmedhebila.vercel.app) · [LinkedIn](https://www.linkedin.com/in/ahmed-hebila) · [Email](mailto:ahmedsaadhebila@gmail.com) · [Mostaql](https://mostaql.com/u/ahmedsaadhebila) · [Kafiil](https://kafiil.com/u/ahmed_hebila)
+
+## Tech
+
+- **Mobile:** Flutter · Dart · Bloc / Cubit · Clean Architecture · Dio · GoRouter · Firebase
+- **Backend:** Node.js · Express · MongoDB · REST APIs · JWT
+- **Web & e-commerce:** HTML · CSS · JavaScript · Angular · Next.js · Salla · Shopify (Liquid)
+
+## Selected work
+
+| Project | What it is | Links |
+|---|---|---|
+| **ASEEL AI TRIP** | AI travel planner app built with Flutter, live on both stores | [Case study](https://ahmedhebila.vercel.app/projects/aseel-ai-trip) · [App Store](https://apps.apple.com/sa/app/aseel-ai-trip/id6774144698) |
+| **Logistics & Shipping App** | Shipping platform for the Saudi market — Flutter app plus backend work | [Case study](https://ahmedhebila.vercel.app/projects/logistics-shipping-app) |
+| **Logistics Admin App** | Admin app to run the platform from a phone | [Case study](https://ahmedhebila.vercel.app/projects/logistics-admin-app) |
+| **GOLDEN SCARF** | Abaya store on Salla with a custom theme | [Case study](https://ahmedhebila.vercel.app/projects/golden-scarf) · [Live](https://goldenscarf.shop) |
+| **NY Gear** | Shopify store for authentic streetwear | [Case study](https://ahmedhebila.vercel.app/projects/ny-gear) · [Live](https://nygearinc.com) |
+| **Portfolio + CMS** | Next.js site with a custom admin dashboard, MongoDB and Cloudinary | [Live](https://ahmedhebila.vercel.app) |
+
+## Training projects
+
+| Project | Program | Code |
+|---|---|---|
+| **Vision Mate** — AI assistant app for blind and low-vision users (Flutter, Gemini AI) | DEPI Flutter track · graduation project · Dec 2025 – Jun 2026 | [Repo](https://github.com/samymahmoud22/DEPI-graduation-project) |
+| **ERP System** — HR, inventory, sales, purchasing and accounting (MEAN stack) | NTI MEAN Stack · graduation project · Jul 2026 | [Repo](https://github.com/OnlyReal-LLC/ERB-System) |
+| **E-commerce app** — Dio, Cubit, Clean Architecture, pagination, deep links | Huma-volve Flutter course · 6 days · Oct 2026 | [Repo](https://github.com/Ahmed-hebila/Ecommerce-Huma-volve) |
+
+## Education & training
+
+- **B.Sc. Computer Science** — Mansoura University (2023 – 2027)
+- **DEPI** — Cross-Platform Mobile Development (Flutter), Round 4 · Dec 2025 – Jun 2026
+- **NTI** — MEAN Stack · Jul 2026
+- **CIB** — Generative AI · Jul 2026
+- **Huma-volve** — Flutter course, 6 days · Oct 2026
+- **Creativa** — CCNA · Oct – Nov 2026 (in progress)
