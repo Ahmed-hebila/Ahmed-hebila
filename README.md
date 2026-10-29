@@ -33,6 +33,7 @@ Open to **remote roles** and **freelance projects**.
 | **Logistics & Shipping App** | Shipping platform for the Saudi market — Flutter app plus backend work | [Case study](https://ahmedhebila.vercel.app/projects/logistics-shipping-app) |
 | **Logistics Admin App** | Admin app to run the platform from a phone | [Case study](https://ahmedhebila.vercel.app/projects/logistics-admin-app) |
 | **GOLDEN SCARF** | Abaya store on Salla with a custom theme | [Case study](https://ahmedhebila.vercel.app/projects/golden-scarf) · [Live](https://goldenscarf.shop) |
+| **GHAIM** | Lighting & chandelier store on Salla — theme customisation and SEO | [Case study](https://ahmedhebila.vercel.app/projects/ghaim-store) · [Live](https://ghaim-sa.com) |
 | **NY Gear** | Shopify store for authentic streetwear | [Case study](https://ahmedhebila.vercel.app/projects/ny-gear) · [Live](https://nygearinc.com) |
 | **Portfolio + CMS** | Next.js site with a custom admin dashboard, MongoDB and Cloudinary | [Live](https://ahmedhebila.vercel.app) |
 
