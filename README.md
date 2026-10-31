@@ -45,6 +45,16 @@ Open to **remote roles** and **freelance projects**.
 | **ERP System** — HR, inventory, sales, purchasing and accounting (MEAN stack) | NTI MEAN Stack · graduation project · Jul 2026 | [Repo](https://github.com/OnlyReal-LLC/ERB-System) |
 | **E-commerce app** — Dio, Cubit, Clean Architecture, pagination, deep links | Huma-volve Flutter course · 6 days · Oct 2026 | [Repo](https://github.com/Ahmed-hebila/Ecommerce-Huma-volve) |
 
+## More projects on GitHub
+
+| Project | What it is | Links |
+|---|---|---|
+| **Book Store** | Flutter + Firebase bookstore — search, favorites, cart, publisher/owner dashboards | [Repo](https://github.com/Ahmed-hebila/Book-Store) · [Live](https://book-store-sw2.web.app/) |
+| **Corporate B2B template** | Arabic RTL company website template — Next.js, Tailwind, GitHub Pages | [Repo](https://github.com/Ahmed-hebila/corporate-b2b-demo) · [Live](https://ahmed-hebila.github.io/corporate-b2b-demo/) |
+| **Swim Home** | Arabic RTL website for a sports-services company — HTML, CSS, JS, GSAP | [Repo](https://github.com/Ahmed-hebila/swim-home-portfolio) · [Live](https://ahmed-hebila.github.io/swim-home-portfolio/) |
+| **Discord Study Helper** | Discord bot: daily YouTube lessons with Gemini quizzes and SQLite progress | [Repo](https://github.com/Ahmed-hebila/discord-study-helper-bot) |
+| **Taskaty** | Offline-first Flutter to-do app with SQLite | [Repo](https://github.com/Ahmed-hebila/Taskaty) |
+
 ## Education & training
 
 - **B.Sc. Computer Science** — Mansoura University (2023 – 2027)
